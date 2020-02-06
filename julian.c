@@ -2,6 +2,8 @@
 #include <cstdio>
 #include <cmath>
 
+// Teste de commit
+
 using namespace std;
 
 void smfdate(int jdate, char* gdate) {
